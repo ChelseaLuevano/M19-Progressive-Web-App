@@ -38,7 +38,7 @@ console.error('getDb not implemented');
 
 const jateDb = await openDB('jate', 1)
 
-const tx = jateDb.transactions('jate', 'readonly');
+const tx = jateDb.transaction('jate', 'readonly');
 
 const store = tx.objectStore('jate');
 
