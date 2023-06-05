@@ -2,6 +2,8 @@
 This is a single-page Progressive Web App that functions as a text editor in the browser. This is a part of the Module 19 Challenge associated for the Ohio Statue University Coding Bootcamp.
 
 This app is deployed in Heroku, so you can use it live here:https://chelsealuevanotexteditorapp.herokuapp.com/
+![image](https://github.com/ChelseaLuevano/M19-Progressive-Web-App/assets/120981491/17298b43-8a77-478e-a079-f3cd85c45cee)
+
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
@@ -30,8 +32,10 @@ If you are installing locally. follow these steps:
 1. Run "npm i" to install project dependencies.
 2. Run " npm run start" to start the app in Local Host.
 
-Otherwise, you can download from the deployed app link by clicking "install"
-image.png
+Otherwise, you can download from the deployed app link by clicking "install".
+
+![image](https://github.com/ChelseaLuevano/M19-Progressive-Web-App/assets/120981491/857acbc4-6f40-4514-86b0-0f22eea7d358)
+
 
 
 ## Usage 
@@ -48,4 +52,5 @@ Github Repository: https://github.com/ChelseaLuevano/M19-Progressive-Web-App
 
 ## Questions
 If you have any questions, please send me an email at chelsea.m.luevano@gmail.com 
+
 
